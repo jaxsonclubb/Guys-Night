@@ -14,7 +14,7 @@
 html {
     margin: auto;
     max-width: 800px;
-    background-image: (rgb(105, 103, 103))
+    background-image: (rgb(105, 103, 103));
     background-size: 100%;
 }
 
@@ -22,7 +22,7 @@ html {
     margin: auto;
     padding: 10px;
     background-color: black;
-    border-color: linear-gradient(to bottom right, green ,blue)
+    border-color: linear-gradient(to bottom right, green ,blue);
     border: 10px;
     border-style: line;
 }
