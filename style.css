@@ -1,14 +1,15 @@
-.body {
+body {
     margin: auto;
     max-width: 800px;
     padding: 10px;
 }
 
-.navigation {
+#navigation {
     margin: auto;
     max-width: 800px;
-    background-color: blue;
     padding: 10px;
+    border-spacing: 10px;
+    background-color: grey;
 }
 
 html {
@@ -16,14 +17,23 @@ html {
     max-width: 800px;
     background-image: (rgb(105, 103, 103));
     background-size: 100%;
+    align-content: center;
+    text-align: center;
 }
 
-.guysnight {
+#guysnight {
     margin: auto;
     padding: 10px;
-    background-color: black;
-    border-color: linear-gradient(to bottom right, green ,blue);
     border: 10px;
-    border-style: line;
+    border-style: double;
+    background-color: teal;
 }
 
+h3 {
+    margin: auto;
+    padding: 10px;
+    max-width: 800px;
+    border-style: solid;
+    border-color: blue;
+    background-color: darkgrey;
+}
