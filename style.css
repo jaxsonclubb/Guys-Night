@@ -10,6 +10,13 @@ body {
     padding: 10px;
     border-spacing: 10px;
     background-color: blue;
+  
+}
+
+#navigation a:hover {
+    text-decoration: none;
+    background-color: rgb(129, 137, 139);
+    border-radius: 5px;
 }
 
 html {
@@ -33,14 +40,6 @@ html {
     background-color: black;
 }
 
-h3 {
-    margin: auto;
-    padding: 10px;
-    max-width: 800px;
-    border-style: solid;
-    border-color: blue;
-
-}
 
 footer {
     position: fixed;
@@ -63,15 +62,53 @@ a {
       padding: 7px 7px;
       }
   
-a:hover{
-      text-decoration: none;
-      background-color: rgb(129, 137, 139);
-      border-radius: 5px;
-
-     }
- 
-h2{
+.thebois{
     margin: auto;
     padding: 10px;
     max-width: 800px;
+    text-decoration: underline;
   }
+
+.john {
+    padding: 10px;
+    max-width: 800px;
+    max-height: 800px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 15px;
+}
+
+.ethan {
+    padding: 10px;
+    max-width: 800px;
+    max-height: 800px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 15px;   
+}
+
+.cody {
+    padding: 10px;
+    max-width: 800px;
+    max-height: 800px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 15px;   
+}
+
+.jaxson {
+    padding: 10px;
+    max-width: 800px;
+    max-height: 800px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 15px;  
+}
+
+h2 {
+    margin: auto;
+    padding: 10px;
+    max-width: 800px;
+}
+
+
