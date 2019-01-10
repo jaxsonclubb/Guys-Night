@@ -68,55 +68,42 @@ a {
     max-width: 800px;
     text-decoration: underline;
   }
-
-.john {
-    max-width: 400px;
-    max-height: 400px;
-    border-style: solid;
-    border-color: blue;
-    border-radius: 15px;
-    text-align: center;
-    border-image: 100px;
-    border-spacing: 0px;
-}
-
-.johnpic {
-    border-spacing: 0px;
-    border-radius: 10px;
-}
+  
 
 .johnlink {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-.ethan {
     padding: 10px;
-    max-width: 800px;
-    max-height: 800px;
+    height: 400px;
+    width: 700px;
     border-style: solid;
-    border-color: blue;
-    border-radius: 15px;   
-
+    border-radius: 15px;
+    background-image: url(./img/IMG_E1536.JPG);
 }
-
-.cody {
+.ethanlink {
     padding: 10px;
-    max-width: 800px;
-    max-height: 800px;
+    height: 400px;
+    width: 700px;
     border-style: solid;
-    border-color: blue;
-    border-radius: 15px;   
+    border-radius: 15px;
+    background-image: url(./img/IMG_E1537.JPG);  
 }
 
-.jaxson {
+.codylink {
     padding: 10px;
-    max-width: 800px;
-    max-height: 800px;
+    height: 400px;
+    width: 700px;
     border-style: solid;
-    border-color: blue;
-    border-radius: 15px;  
+    border-radius: 15px; 
+    background-image: url(./img/IMG_E1538.JPG); 
+    align-content: center;
+}
+
+.jaxsonlink {
+    padding: 10px;
+    height: 550px;
+    width: 700px;
+    border-style: solid;
+    border-radius: 15px; 
+    background-image: url(./img/IMG_E1539.JPG) 
 }
 
 h2 {
